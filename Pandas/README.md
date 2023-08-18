@@ -3,7 +3,7 @@
 **Data Filtering**
 | ID | Title | Difficulty | Solution | 
 | ---- | ---- | ---- | ---- |
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | Soln. |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Filtering/595_big_countries.py) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | Soln. |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | Soln. |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | Soln. |
