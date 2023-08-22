@@ -17,7 +17,7 @@
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/String%20Methods/1873_calculate_special_bonus.py) |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/String%20Methods/1667_fix_names_in_a_table.py) |
 | 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/String%20Methods/1517_find_users_with_valid_e-mails.py) |
-| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/String%20Methods/1527_patients%20with%20a%20condition.py) |
 
 </br>
 
