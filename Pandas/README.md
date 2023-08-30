@@ -24,21 +24,21 @@
 **Data Manipulation**
 | ID | Title | Difficulty | Solution | 
 | ---- | ---- | ---- | ---- |
-| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Medium | [Soln.]() |
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Medium | [Soln.]() |
-| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Medium | [Soln.]() |
-| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Medium | [Soln.]() |
-| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
-| 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Medium | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Manipulation/177_nth_highest_salary.py) |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Medium | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Manipulation/176_second_highest_salary.py) |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Medium | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Manipulation/184_department_highest_salary.py) |
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Medium | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Manipulation/178_rank_scores.py) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Manipulation/196_delete_duplicate_emails.py) |
+| 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Manipulation/1795_rearrange_products_table.py) |
 
 </br>
 
 **Statistics**
 | ID | Title | Difficulty | Solution | 
 | ---- | ---- | ---- | ---- |
-| 2082 | [The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
-| 1173 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
-| 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Medium | [Soln.]() |
+| 2082 | [The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Statistics/2082_the_number_of_rich_customers.py) |
+| 1173 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Statistics/1173_immediate_food_delivery_i.py) |
+| 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Medium | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Statistics/1907_count_salary_categories.py) |
 
 </br>
 
