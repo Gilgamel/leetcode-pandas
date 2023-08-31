@@ -45,21 +45,21 @@
 **Data Aggregation**
 | ID | Title | Difficulty | Solution | 
 | ---- | ---- | ---- | ---- |
-| 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
-| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
-| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
-| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
-| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
-| 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
-| 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
+| 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Aggregation/1741_find_total_time_spent_by_each_employee.py) |
+| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Aggregation/511_game_play_analysis_i.py) |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Aggregation/2356_nunmber_of_unique_subjects_taught_by_each_teacher.py) |
+| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Aggregation/596_classes_more_than_5_students.py) |
+| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Aggregation/586_customer_placing_the_largest_number_of_orders.py) |
+| 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Aggregation/1484_group_sold_products_by_the_date.py) |
+| 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Aggregation/1693_daily_leads_and_partners.py) |
 
 </br>
 
 **Data Integration**
 | ID | Title | Difficulty | Solution | 
 | ---- | ---- | ---- | ---- |
-| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
-| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
-| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
-| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Medium | [Soln.]() |
-| 607 | [Sales Person](https://leetcode.com/problems/sales-person/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.]() |
+| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Integration/1050_actors_and_directors_who_cooperated_at_least_three_times.py) |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Integration/1378_replace_employee_id_with_the_unique_identifier.py) |
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Integration/1280_students_and_examinations.py) |
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Medium | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Integration/570_managers_with_at_least_5_direct_reports.py) |
+| 607 | [Sales Person](https://leetcode.com/problems/sales-person/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata) | Easy | [Soln.](https://github.com/Gilgamel/leetcode-practices/blob/main/Pandas/Data%20Integration/607_sales_person.py) |
